@@ -55,10 +55,10 @@ Donaciones
 Contacto y redes sociales
 -------------------------
 
-- Sitio web: <https://facturacionlibre.cl>
-- Versión Oficial: <http://libredte.cl>
-- Twitter: <https://twitter.com/LibreDTE>
-- Facebook: <https://www.facebook.com/LibreDTE>
-- Youtube: <https://www.youtube.com/channel/UCnh5duQUXmo4l8AD28PakiQ>
-- Linkedin: <https://www.linkedin.com/grp/home?gid=8403251>
-- Desarrollo y soporte oficial: <https://sasco.cl>
+- [Sitio web](https://facturacionlibre.cl)
+- [Versión Oficial](http://libredte.cl)
+- [Twitter](https://twitter.com/LibreDTE)
+- [Facebook](https://www.facebook.com/LibreDTE)
+- [Youtube](https://www.youtube.com/channel/UCnh5duQUXmo4l8AD28PakiQ)
+- [Linkedin](https://www.linkedin.com/grp/home?gid=8403251)
+- [Desarrollo y soporte oficial](https://sasco.cl)
