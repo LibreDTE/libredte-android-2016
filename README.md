@@ -56,7 +56,7 @@ Contacto y redes sociales
 -------------------------
 
 - Sitio web: <https://facturacionlibre.cl>
-- Instancia Oficial: <http://libredte.cl>
+- Versión Oficial: <http://libredte.cl>
 - Twitter: <https://twitter.com/LibreDTE>
 - Facebook: <https://www.facebook.com/LibreDTE>
 - Youtube: <https://www.youtube.com/channel/UCnh5duQUXmo4l8AD28PakiQ>
