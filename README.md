@@ -19,7 +19,7 @@ Licencia
 
 Este software se encuentra bajo los términos de la licencia GPL 3 que puedes
 encontrar en el archivo
-[COPYING](https://raw.githubusercontent.com/LibreDTE/libredte-android/master/COPYING).
+[COPYING](https://github.com/LibreDTE/libredte-android-2016/blob/master/COPYING).
 
 En resumen:
 
@@ -35,9 +35,9 @@ Contribuir al proyecto
 ----------------------
 
 Si deseas contribuir con el proyecto, especialmente resolviendo alguna de las
-[*issues* abiertas](https://github.com/LibreDTE/libredte-android/issues), debes:
+[*issues* abiertas](https://github.com/LibreDTE/libredte-android-2016/issues), debes:
 
-1. Hacer fork del proyecto en [GitHub](https://github.com/LibreDTE/libredte-android)
+1. Hacer fork del proyecto en [GitHub](https://github.com/LibreDTE/libredte-android-2016)
 2. Crear una *branch* para los cambios: git checkout -b nombre-branch
 3. Modificar código: git commit -am 'Se agrega...'
 4. Publicar cambios: git push origin nombre-branch
@@ -47,12 +47,18 @@ Si deseas contribuir con el proyecto, especialmente resolviendo alguna de las
 Studio, por lo anterior se pide que se pruebe en dicha plataforma e IDE antes
 de sugerir algún cambio o nueva funcionalidad.
 
+Donaciones
+----------
+
+¿Te gusta LibreDTE? ¿Lo usas? ¿Quieres apoyar el proyecto? [¡Haz una donación al proyecto!](https://facturacionlibre.cl/#donar)
+
 Contacto y redes sociales
 -------------------------
 
-- Sitio web: <http://libredte.cl>
+- Sitio web: <https://facturacionlibre.cl>
+- Instancia Oficial: <http://libredte.cl>
 - Twitter: <https://twitter.com/LibreDTE>
 - Facebook: <https://www.facebook.com/LibreDTE>
-- Google+: <https://plus.google.com/u/0/101078963971350176990/about>
-- Linkedin: <https://www.linkedin.com/grp/home?gid=8403251>
 - Youtube: <https://www.youtube.com/channel/UCnh5duQUXmo4l8AD28PakiQ>
+- Linkedin: <https://www.linkedin.com/grp/home?gid=8403251>
+- Desarrollador y soporte oficial: <https://sasco.cl>
