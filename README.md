@@ -50,7 +50,7 @@ de sugerir algún cambio o nueva funcionalidad.
 Donaciones
 ----------
 
-¿Te gusta LibreDTE? ¿Lo usas? ¿Quieres apoyar el proyecto? [¡Haz una donación al proyecto!](https://facturacionlibre.cl/#donar)
+¿Te gusta LibreDTE? ¿Lo usas? ¿Quieres apoyar el proyecto? [¡Haz una donación!](https://facturacionlibre.cl/#donar)
 
 Contacto y redes sociales
 -------------------------
