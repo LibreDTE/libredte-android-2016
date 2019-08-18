@@ -1,6 +1,8 @@
 LibreDTE: Aplicación para Android
 =================================
 
+**deprecated**: este repositorio se encuentra obsoleto. No debe ser usado este proyecto y se deja como referencia de lo alguna vez realizado con Android. Este proyecto dejó de mantenerse el año 2016. Actualmente se está trabajando en una [nueva versión de LibreDTE para Android](https://github.com/LibreDTE/libredte-android).
+
 LibreDTE es un proyecto que tiene por objetivo proveer facturación electrónica
 libre para Chile.
 
