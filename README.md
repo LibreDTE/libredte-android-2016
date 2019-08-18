@@ -60,5 +60,5 @@ Contacto y redes sociales
 - [Twitter](https://twitter.com/LibreDTE)
 - [Facebook](https://www.facebook.com/LibreDTE)
 - [Youtube](https://www.youtube.com/channel/UCnh5duQUXmo4l8AD28PakiQ)
-- [Linkedin](https://www.linkedin.com/grp/home?gid=8403251)
+- [Linkedin](https://www.linkedin.com/groups/8403251/)
 - [Desarrollo y soporte oficial](https://sasco.cl)
